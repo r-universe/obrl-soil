@@ -8,3 +8,8 @@
 	url = https://github.com/obrl-soil/h3jsr
 	shallow = true
 	registered = true
+[submodule "mpspline2"]
+	path = mpspline2
+	url = https://github.com/obrl-soil/mpspline2
+	shallow = true
+	registered = true

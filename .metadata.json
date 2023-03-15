@@ -2,5 +2,9 @@
   {
     "package": "h3jsr",
     "oncran": true
+  },
+  {
+    "package": "mpspline2",
+    "oncran": true
   }
 ]
