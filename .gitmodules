@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "h3jsr"]
 	path = h3jsr
 	url = https://github.com/obrl-soil/h3jsr
-	shallow = true
-	registered = true
 [submodule "mpspline2"]
 	path = mpspline2
 	url = https://github.com/obrl-soil/mpspline2
-	shallow = true
-	registered = true
